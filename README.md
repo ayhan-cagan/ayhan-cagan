@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm AYHAN</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning | NLP | NLTK | Tensorflow | Keras | Python | SQL | Numpy | Pandas | Matplotlib | Seaborn | AWS | Git</h3>
 
+As a dedicated Data Scientist, 9 months of hands-on remote work experience at Techno Study by Mersys LLC, including internships and certified training. where I honed my skills in Python, SQL, Tableau, and various machine learning algorithms. Collaborating within a dynamic team, we undertook projects, including generating synthetic data for schools and resolving Python challenges. My prociency in utilizing tools like Jira and GitHub facilitated seamless project sharing with my team members. With a passion for problem-solving and an eagerness to stay at the forefront of the data science eld, I am driven to make meaningful contributions in future ventures
+
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
 
