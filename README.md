@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
 
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/Ayhan_Cagann](datascienceportfol.io/Ayhan_Cagann)
+- 👨‍💻 All of my projects are available at [[datascienceportfol.io/Ayhan_Cagann](datascienceportfol.io/Ayhan_Cagann)](https://www.datascienceportfol.io/Ayhan_Cagann)
 
 
 - 💬 Ask me about **Machine Learning Algorithms : Linear Regression, Logistic Regression, Decision Trees, SVM, kNN, K-Means, Random Forest, GradientBoosting Algorithms(GBM, XGBoost,LightGBM, CatBoost)**
