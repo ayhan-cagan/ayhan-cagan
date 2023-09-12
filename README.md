@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm AYHAN</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning | NLP | NLTK | Tensorflow | Keras | Python | SQL | Numpy | Pandas | Matplotlib | Seaborn | AWS | Git</h3>
 
+
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
+
 
 - 👨‍💻 All of my projects are available at [datascienceportfol.io/Ayhan_Cagann](datascienceportfol.io/Ayhan_Cagann)
 
+
 - 💬 Ask me about **Machine Learning Algorithms : Linear Regression, Logistic Regression, Decision Trees, SVM, kNN, K-Means, Random Forest, GradientBoosting Algorithms(GBM, XGBoost,LightGBM, CatBoost)**
+
 
 - 📫 How to reach me **caganayhann@gmail.com**
 
